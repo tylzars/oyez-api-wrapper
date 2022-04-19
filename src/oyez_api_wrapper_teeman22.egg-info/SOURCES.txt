@@ -1,0 +1,9 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/__init__.py
+src/oyez_api_wrapper_teeman22.egg-info/PKG-INFO
+src/oyez_api_wrapper_teeman22.egg-info/SOURCES.txt
+src/oyez_api_wrapper_teeman22.egg-info/dependency_links.txt
+src/oyez_api_wrapper_teeman22.egg-info/top_level.txt

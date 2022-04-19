@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: oyez-api-wrapper-teeman22
+Version: 0.0.1
+Summary: A wrapper for the Oyez API
+Home-page: https://github.com/tylzars/oyez-api-wrapper
+Author: Tyler Zars
+Author-email: tyler@zars.me
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# Oyez API Wrapper
+
+
