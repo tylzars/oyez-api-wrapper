@@ -1,3 +1,18 @@
+Metadata-Version: 2.1
+Name: oyez-api-wrapper
+Version: 0.0.3
+Summary: A wrapper for the Oyez API
+Home-page: https://github.com/tylzars/oyez-api-wrapper
+Author: Tyler Zars
+Author-email: tyler@zars.me
+License: UNKNOWN
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
 # Oyez API Wrapper
 This library is used to access the API of [oyez.org](oyez.org) and parse the data into easily usable chunks. All included functions are included below. 
 
@@ -23,3 +38,5 @@ The library can be imported and objects can be created using the above syntax. T
 
 -----------------------
 The owner of this repo has no relation with [oyez.org](oyez.org)!
+
+
